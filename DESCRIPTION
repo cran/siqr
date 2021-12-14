@@ -1,7 +1,7 @@
 Package: siqr
 Type: Package
 Title: An R Package for Single-Index Quantile Regression
-Version: 0.8.0
+Version: 0.8.1
 Language: en-US
 Authors@R: c(
     person("Tianhai", "Zu", email = "zuti@mail.uc.edu", role = "cre"),
@@ -10,12 +10,12 @@ Description: Single-Index Quantile Regression is effective in some scenarios. We
 License: GPL-3
 Encoding: UTF-8
 Depends: R (>= 3.6.0)
-Imports: MASS, stats, quantreg, KernSmooth
+Imports: stats, quantreg, KernSmooth
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-11-30 15:56:13 UTC; tianhaizu
+Packaged: 2021-12-14 20:11:04 UTC; tianhaizu
 Author: Tianhai Zu [cre],
   Yan Yu [aut]
 Maintainer: Tianhai Zu <zuti@mail.uc.edu>
 Repository: CRAN
-Date/Publication: 2021-12-01 10:30:02 UTC
+Date/Publication: 2021-12-14 20:30:02 UTC
